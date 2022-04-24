@@ -1,0 +1,18 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1
+
+  Its a standardized protocol and it had been used for more than 15 years. when the connection open 
+and its passes one by one and connection will be closed 
+
+HTTP2
+   
+   It improve Performance of HTTP and when the coonection open in that first run will return whether
+other two coonection finish it does not wait for other two and connection will be closed
+
+
+
+2.Write a blog about objects and its internal representation in Javascript
+
+
+  An unordered collection of related data of primitive or reference types 
